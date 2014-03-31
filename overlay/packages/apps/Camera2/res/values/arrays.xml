@@ -27,7 +27,6 @@
         <item>@string/pref_camera_scenemode_entry_party</item>
         <item>@string/pref_camera_scenemode_entry_duskdawn</item>
         <item>@string/pref_camera_scenemode_entry_candlelight</item>
-        <item>@string/pref_camera_scenemode_entry_fallcolor</item>
         <item>@string/pref_camera_scenemode_entry_closeup</item>
         <item>@string/pref_camera_scenemode_entry_landscape</item>
         <item>@string/pref_camera_scenemode_entry_aqua</item>
